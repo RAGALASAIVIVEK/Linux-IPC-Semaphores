@@ -106,20 +106,12 @@ if(NUM_LOOPS>=10)    {
     return 0;
 }
 ```
-
-
-
 ## OUTPUT
 $ ./sem.o 
 ![WhatsApp Image 2024-04-12 at 19 36 59_64ce036d](https://github.com/23012653/Linux-IPC-Semaphores/assets/150777517/b027192e-e7a2-4a77-b011-66c970b05307)
 
-
 $ ipcs
-
 ![WhatsApp Image 2024-04-12 at 19 37 09_58eae87d](https://github.com/23012653/Linux-IPC-Semaphores/assets/150777517/6a9694cd-fa13-4aae-9d89-455f6cc8a361)
-
-
-
 
 # RESULT:
 The program is executed successfully.
